@@ -1,0 +1,8 @@
+Hypothesis Testing: Independent Samples t-test (Welch's)
+Trials per condition: 30
+
+Condition A (b=0.0): Mean=192.23, Std=10.67
+Condition B (b=1.0): Mean=257.67, Std=7.96
+t-statistic: -26.9148
+p-value: 7.8613e-33
+Conclusion: Significant difference exists between the two conditions (p < 0.05).
